@@ -4,13 +4,11 @@ using UnityEngine;
 using UnityEngine.Networking;
 using TMPro;
 
-
-
 public class WeatherInfo : MonoBehaviour
 {
 	private int zipCode;
 	public string appid; 
-	public GameObject tempTextObject;
+	public GameObject tempTextObject; 
 	public GameObject humidityTextObject;
 	public GameObject waterObject;
 	public GameObject tempObject;
