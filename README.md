@@ -1,6 +1,8 @@
 # VRARProject1
 Unity AR Project Time date temp windspeed and weather indicators
 
+Unity version: Unity 2019.4.1f1
+
 Process to run:
 
 1) Put files from github into a new folder 
